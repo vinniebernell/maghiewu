@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://naiphikieb.tasarimmerkezi.com.tr/sitemap.xml
